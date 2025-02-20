@@ -3,6 +3,9 @@
 This is my first public application of React native, this application is designed for android, it is a basic calculator for android, this application was based on the youtuber [video](https://www.youtube.com/watch?v=XgxF-S00XpU&t=1s).
 
 # Example image
+![image](https://github.com/user-attachments/assets/e212aed8-9659-477f-89cf-3247664d4dfa)
+![image](https://github.com/user-attachments/assets/f79d092d-9b89-4185-ac22-08304e3e646c)
+![image](https://github.com/user-attachments/assets/436faac7-3351-49ad-a9b3-cca53bff5b63)
 
 # How can I start the project?
 
